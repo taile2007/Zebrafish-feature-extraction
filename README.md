@@ -3,4 +3,4 @@ To denoise electrocardiogram (ECG) signals collected on zebrafish and dectect P,
 
 ## Algorithms in detail
 Due to uncertainties in measurement, such as unexpected strong movement of fish or electrode dislocation, there are some parts of the ECG data dominated by noise. For real-time recording and processing, first, ECG data are checked to look for non-ECG periods. The following illustrates the algorithm I came up with to deal with that.
-<img src = "https://github.com/taile2007/Zebrafish-feature-extraction/blob/master/09.PNG" width="500" height="500">
+<img src = "https://github.com/taile2007/Zebrafish-feature-extraction/blob/master/09.PNG" width="400" height="400">
